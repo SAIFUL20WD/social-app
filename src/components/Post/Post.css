@@ -1,0 +1,13 @@
+.main-btn {
+    margin: 5px;
+    padding: 10px;
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+.post-container {
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px 5px gray;
+}
